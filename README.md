@@ -1,11 +1,3 @@
-<p align="center">
-    <a href="https://takaomizuno0032.github.io/myportfolio/">
-        <h3>I'm Takao</h3>
-    </a>
-</p>
-
-<br />
-
 <!--
 **takaomizuno0032/takaomizuno0032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +12,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi! I'm Takao 👋
+
+I'm a software engineer 🇯🇵
+
+**About me**
+
+-   🔭 Software engineer at [Gaiax](https://www.gaiax.co.jp/)
+
+    -   Building Software with Blockchain technology
+
+-   🇦🇺 Master of IT student at The University of Queensland
+
+    -   Reasearching LLM and cyber security
+
+-   ❤️‍🔥 Love TypeScript
+
+-   🚗 Learning car OS development and app development.
+
