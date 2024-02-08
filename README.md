@@ -1,4 +1,10 @@
-### Hi there 👋
+<p align="center">
+    <a href="https://takaomizuno0032.github.io/myportfolio/">
+        <h3>I'm Takao</h3>
+    </a>
+</p>
+
+<br />
 
 <!--
 **takaomizuno0032/takaomizuno0032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
