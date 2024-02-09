@@ -14,7 +14,7 @@ I'm a software engineer from Japan 🇯🇵 and live in Australia 🇦🇺
 
 -   ❤️‍🔥 Love TypeScript
 
--   🚗 Learning car OS development and app development.
+-   🚗 Learning automobile OS development and app development.
 
 <p align="left">
     <img alt="stat" height="200px" src="https://github-readme-stats-mizutaka.vercel.app/api?username=takaomizuno0032&show_icons=true&include_all_commits=true&theme=merko" />
