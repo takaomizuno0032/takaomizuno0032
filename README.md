@@ -8,7 +8,7 @@ I'm a software engineer from Japan 🇯🇵 and live in Australia 🇦🇺
 
     -   Building Software with Blockchain technology
 
--   📓 Researching LLMs and cyber security
+-   📓 Researching LLMs and cyber security at [University of Queensland](https://eecs.uq.edu.au/cyber-security)
 
     -   Deanonymization bitcoin transactions used ransomware payments by Llama2
 
