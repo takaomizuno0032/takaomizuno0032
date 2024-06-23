@@ -13,8 +13,9 @@ I'm a software engineer from Japan 🇯🇵 and live in Australia 🇦🇺
     -   Deanonymization bitcoin transactions used ransomware payments by Llama2
 
 -   ❤️‍🔥 Love TypeScript
-
--   🚗 Learning automobile OS development and app development.
+-   🥍 Enjoy playing Lacrosee
+    - I played lacrosse for the University of Tokyo from 2015 to 2018
+    - joining the [UQ lacrosse](https://uqsport.com.au/sports-activities/lacrosse/)
 
 <p align="center">
     <!-- <img alt="stat" height="200px" src="https://raw.githubusercontent.com/takaomizuno0032/takaomizuno0032/main/profile-summary-card-output/github_dark/0-profile-details.svg" /> -->
