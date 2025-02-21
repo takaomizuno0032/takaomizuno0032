@@ -3,8 +3,9 @@
 I'm a software engineer from Japan 🇯🇵 and live in Australia 🇦🇺
 
 **About me**
+-   🧑‍💻 Chief Technology Officer at Secure Vertex
 
--   🔭 Software engineer at [Gaiax](https://www.gaiax.co.jp/)
+-   🔭 Research engineer at [Gaiax](https://www.gaiax.co.jp/)
 
     -   Building Software with Blockchain technology
 
