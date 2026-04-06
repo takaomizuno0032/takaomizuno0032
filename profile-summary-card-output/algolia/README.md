@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/takaomizuno0032/takaomizuno0032/main/profile-summary-card-output/algolia/4-productive-time.svg)
+```
+
+    
