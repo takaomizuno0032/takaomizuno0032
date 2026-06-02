@@ -4,7 +4,7 @@ I'm a software engineer from Japan 🇯🇵 and live in Australia 🇦🇺
 
 **About me**
 -   🦠 Research about analyzing Malware using LLM at Preferred Networks
--   
+  
 -   🧑‍💻  Ex. Chief Technology Officer at Secure Vertex
 
 -   🔭 Research engineer at [Gaiax](https://www.gaiax.co.jp/)
