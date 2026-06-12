@@ -1,6 +1,6 @@
 ### Hi! I'm Takao 👋
 
-I'm a software engineer from Japan 🇯🇵 and live in Australia 🇦🇺
+I'm a software engineer in Japan 🇯🇵 and used to live in Australia 🇦🇺
 
 **About me**
 -   🦠 Research about analyzing Malware using LLM at Preferred Networks
@@ -10,6 +10,7 @@ I'm a software engineer from Japan 🇯🇵 and live in Australia 🇦🇺
 -   🔭 Research engineer at [Gaiax](https://www.gaiax.co.jp/)
 
     -   Building Software with Blockchain technology
+    -   Paper: [高弾性ハイパーセキュアな非集中型ストレージに基づく共創型デジタルツイン基盤](https://www.ieice.org/publications/conferences/summary.php?id=CONF0000150768&expandable=0&ConfCd=2026G&session_num=BT-2&lecture_number=BT-2-04&year=2026&conf_type=G)
 
 -   📓 Researching LLMs and cyber security at [University of Queensland](https://eecs.uq.edu.au/cyber-security)
 
